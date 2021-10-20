@@ -1,0 +1,27 @@
+{
+  {
+    "name": "Herrumbroso"
+    "description": "Gato herrumbroso: Es el más pequeño que existe, pero al contrario que los demás de esta lista, es salvaje."
+    "image_url": "https://raw.githubusercontent.com/AlejandroReyFp/fp/main/esta_chiquitoEd.png"
+  },
+  {
+    "name": "Sphinx"
+    "description": "Gato sphinx o esfinge: No tienen pelo y eso lo hace semejar a cierta parte anatómica del hombre, pero no dejan pelos por toda la casa."
+    "image_url": "https://raw.githubusercontent.com/AlejandroReyFp/fp/main/sphinxEd.png"
+  },
+  {
+    "name": "Siamés"
+    "description": "Gato siamés: Es muy probable que si has tenido un gato en esta zona del globo, hubiese sido un siamés. Es el gato por antonomasia."
+    "image_url": "https://raw.githubusercontent.com/AlejandroReyFp/fp/main/siamesEd.png"
+  },
+  {
+    "name": "Persa"
+    "description": "Gato persa: Son unas bolas de pelo con patas y cara achatada. Suelen aparecer representados junto a la aristocracia, por lo que también son considerados gatos aristocráticos."
+    "image_url": "https://raw.githubusercontent.com/AlejandroReyFp/fp/main/persaEd.png"
+  },
+  {
+    "name": "Maine Coon"
+    "description": "Gato Maine Coon: Esta unidad de gato es el más grande del mundo. Curiosamente, no les suele disgustar el agua."
+    "image_url": "https://raw.githubusercontent.com/AlejandroReyFp/fp/main/maine_coonEd.png"
+  }
+}
